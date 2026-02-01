@@ -57,7 +57,7 @@ STUDENTS = [
     {"name": "Muhamamd Usman Siddiqui", "roll": "150."},
     {"name": "Shanze Mudassar", "roll": "153."},
     {"name": "Zainab Irfan", "roll": "156."},
-    {"name": "Saad Ahmed", "roll": "FA24-BCS-158."},
+    {"name": "Saad Ahmed", "roll": "158."},
 ]
 
 @app.route('/')
