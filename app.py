@@ -16,8 +16,6 @@ CLASS_DETAILS = "BSCS (C) - FALL 2024"
 
 # Student data
 STUDENTS = [
-    {"name": "Syed Muhammad Ali", "roll": "FA23-BCS-162."},
-    {"name": "Ali Qassh", "roll": "FA23-BSE-026."},
     {"name": "Abdul Rehaman", "roll": "003."},
     {"name": "Abdullah Saboor", "roll": "006."},
     {"name": "Ahmed Abbas", "roll": "009."},
@@ -59,7 +57,7 @@ STUDENTS = [
     {"name": "Muhamamd Usman Siddiqui", "roll": "150."},
     {"name": "Shanze Mudassar", "roll": "153."},
     {"name": "Zainab Irfan", "roll": "156."},
-    {"name": "Maham Tayyab", "roll": "SP24-BCS-153."},
+    {"name": "Saad Ahmed", "roll": "FA24-BCS-158."},
 ]
 
 @app.route('/')
