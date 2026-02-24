@@ -2,8 +2,7 @@
 
 A modern, mobile-friendly web-based attendance system for BSCS (C) - Fall 2024.
 
-**Developed by:** Hafiz Ahmad  
-**Modified by:** Mutahhar Mudassar
+**Developed by:** Mutahhar Mudassar
 
 ## ✨ Features
 
