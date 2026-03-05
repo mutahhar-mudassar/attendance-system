@@ -26,7 +26,7 @@ STUDENTS = [
     {"name": "Hamna Bukhari", "roll": "039."},
     {"name": "Hassan Muhammad", "roll": "042."},
     {"name": "Hunain Khan", "roll": "045."},
-    {"name": "Maham Uk Akhtar ", "roll": "048."},
+    {"name": "Maham Ul Akhtar ", "roll": "048."},
     {"name": "Mehak Fatima", "roll": "051."},
     {"name": "Minahil Shahid", "roll": "054."},
     {"name": "M Abdullah Shahbaz", "roll": "060."},
@@ -35,7 +35,6 @@ STUDENTS = [
     {"name": "Muhammad Mustajab Ul Haq", "roll": "075."},
     {"name": "Muhammad Usman Bilal", "roll": "084."},
     {"name": "Muhammad Zain Saeed", "roll": "087."},
-    {"name": "Nida Fatima", "roll": "090."},
     {"name": "Rafay Rasheed", "roll": "093."},
     {"name": "Rimal Atif", "roll": "096."},
     {"name": "Samir Afzal Gondal", "roll": "099."},
@@ -44,7 +43,6 @@ STUDENTS = [
     {"name": "Taha Abdullah", "roll": "108."},
     {"name": "Usman Ibrahim", "roll": "111."},
     {"name": "Zainab Faisal", "roll": "114."},
-    {"name": "Saad Imran", "roll": "117."},
     {"name": "Syed Muhammad Ahmad", "roll": "120."},
     {"name": "AbduL Moiz Asif", "roll": "123."},
     {"name": "Ayesha Amjad", "roll": "126."},
@@ -58,6 +56,7 @@ STUDENTS = [
     {"name": "Shanze Mudassar", "roll": "153."},
     {"name": "Zainab Irfan", "roll": "156."},
     {"name": "Saad Ahmed", "roll": "158."},
+    {"name": "Abdul Manan", "roll": "170."},
 ]
 
 @app.route('/')
